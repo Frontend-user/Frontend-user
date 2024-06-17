@@ -48,6 +48,9 @@
 
 <div>
 
+  <a href="https://t.me/Vlad_Okenchits" target="_blank" rel="noreferrer" title="telegram">
+    <img src="telegram.svg" width="48" height="48" alt="telegram"/>
+  </a>
 
 
 </div>
