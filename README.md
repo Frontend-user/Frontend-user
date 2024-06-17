@@ -11,7 +11,13 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="54" height="54" alt="Vue" />
   </a>
 
+ <a href="https://vuex.vuejs.org/" target="_blank" rel="noreferrer" title="Vuex">
+    <img src="vuex.svg" width="54" height="54" alt="Vuex" />
+  </a>
 
+  <a href="https://pinia.vuejs.org/" target="_blank" rel="noreferrer" title="Pinia">
+    <img src="pinia.svg" width="54" height="54" alt="Pinia" />
+  </a>
 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" title="TypeScript">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="54" height="54" alt="TypeScript" />
@@ -28,6 +34,10 @@
 
 <div>
   
+  
+  <a href="https://element-plus.org/en-US/" target="_blank" rel="noreferrer" title="Element plus">
+    <img src="element-plus.svg" width="54" height="54" alt="Element plus" />
+  </a>
 
 
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer" title="Bootstrap">
@@ -44,11 +54,13 @@
   </a>
 </div>
 
-### My Telegram
+### My Contacts
 
 <div>
-
-  <a href="https://t.me/Vlad_Okenchits" target="_blank" rel="noreferrer" title="telegram">
+ <a href="mailto:robersargsyan2023@gmail.com" target="_blank" rel="noreferrer" title="email">
+    <img src="email.svg" width="48" height="48" alt="email"/>
+  </a>
+  <a href="https://t.me/r0b_rr" target="_blank" rel="noreferrer" title="telegram">
     <img src="telegram.svg" width="48" height="48" alt="telegram"/>
   </a>
 
