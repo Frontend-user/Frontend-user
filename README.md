@@ -43,7 +43,7 @@
   </a>
 
 <a href="https://www.chartjs.org/docs/latest/" target="_blank" rel="noreferrer" title="Chart.js">
-    <img src="chart" width="54" height="54" alt="Element plus" />
+    <img src="chart.svg" width="54" height="54" alt="Chart.js" />
   </a>
 
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer" title="Bootstrap">
