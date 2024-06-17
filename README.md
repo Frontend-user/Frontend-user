@@ -11,7 +11,7 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="54" height="54" alt="Vue" />
   </a>
 
-  <a href="https://vuex.vuejs.org/" target="_blank" rel="noreferrer" title="Vuex">
+<a href="https://vuex.vuejs.org/" target="_blank" rel="noreferrer" title="Vuex">
     <img src="vuex.svg" width="54" height="54" alt="Vuex" />
   </a>
 
