@@ -42,6 +42,9 @@
     <img src="element-plus.svg" width="54" height="54" alt="Element plus" />
   </a>
 
+<a href="https://www.chartjs.org/docs/latest/" target="_blank" rel="noreferrer" title="Chart.js">
+    <img src="chartjs" width="54" height="54" alt="Element plus" />
+  </a>
 
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer" title="Bootstrap">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="54" height="54" alt="Bootstrap" />
